@@ -16,6 +16,9 @@ The data set was originally introduced and used in the paper : The use of multip
 
 
 References: 
+
 https://en.wikipedia.org/wiki/Iris_flower_data_set
+
 https://en.wikipedia.org/wiki/Ronald_Fisher
+
 https://en.wikipedia.org/wiki/Linear_discriminant_analysis
